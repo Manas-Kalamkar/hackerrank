@@ -1,2 +1,2 @@
 # hackerrank
-answer of question on react and dsa
+answers of the question on react and dsa
